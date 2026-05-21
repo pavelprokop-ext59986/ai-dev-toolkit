@@ -1,0 +1,55 @@
+# DO NOT MODIFY - This file is managed in https://github.com/csas-dev/corp-le-shared-files-github
+
+### Maven ###
+target/
+*.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+### FE/API ###
+.angular/
+node/
+node_modules/
+
+### Robot Tests ###
+.vscode
+*.log
+Results/*
+log/*
+**/*.pyc
+/libspecs/
+red.xml
+.pydevproject
+*_BACKUP_*.*
+*_BASE_*.*
+*_LOCAL_*.*
+*_REMOTE_*.*
+*.har
+~*.xlsx
+browser
+output
+interactive_console_output.xml
+Resources/Secrets/RobotSecrets.resource
+
+### MacOS File System https://en.wikipedia.org/wiki/.DS_Store ###
+.DS_Store
