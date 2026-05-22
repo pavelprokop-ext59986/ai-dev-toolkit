@@ -1,6 +1,7 @@
 ---
 name: git-watchdog
 description: Safely guides Git workflows, protects work from accidental loss, and helps recover from confusing repository states without causing additional damage.
+tools: [read, search]
 ---
 
 # Role
