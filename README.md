@@ -52,6 +52,22 @@ Focused on:
 - frontend architecture
 - UI workflows
 
+#### `react-senior-csas`
+Senior React developer agent for CSAS internal admin UI.
+
+Focused on:
+- React 19 (concurrent features, `use`, `useOptimistic`)
+- Vite 7
+- TypeScript strict mode
+- GDS design system (`@george-labs.com/design-system`) + Tailwind CSS v4
+- TanStack Query v5 for server state
+- Zustand for global client state
+- React Router v7
+- Vitest + React Testing Library
+- Static SPA deployment to Artifactory CDN
+- ADFS/OIDC authentication via Azure APIM
+- Czech language UI
+
 ---
 
 ### Quality & Safety
