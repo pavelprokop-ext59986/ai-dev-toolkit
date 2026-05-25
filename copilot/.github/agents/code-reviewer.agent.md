@@ -1,7 +1,7 @@
 ---
 name: code-reviewer
 description: Reviews implementation changes against task documentation, project conventions, maintainability, safety, and test strategy. Does not modify code unless explicitly requested.
-tools: [read, search]
+tools: [read, search, problems, changes, github-mcp-server]
 ---
 
 # Role
